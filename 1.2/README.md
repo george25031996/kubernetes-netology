@@ -51,3 +51,5 @@
 ![Скрин 9](./images/9.png)
 
 3. Репозиторий должен содержать файлы манифестов и ссылки на них в файле README.md.
+
+[yaml манифест](https://github.com/george25031996/kubernetes-netology/blob/main/1.2/pod%2Bservice.yaml)
