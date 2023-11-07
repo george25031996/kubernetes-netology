@@ -26,7 +26,7 @@
 
 5. Предоставить манифесты Deployment и Service в решении, а также скриншоты или вывод команды п.4.
 
-
+[yaml манифест первый](https://github.com/george25031996/kubernetes-netology/blob/main/1.5/task1.yml)
 
 ## Задание 2. Создать Ingress и обеспечить доступ к приложениям снаружи кластера
 
@@ -44,4 +44,4 @@
 
 4. Предоставить манифесты и скриншоты или вывод команды п.2.
 
-
+[yaml манифест второй](https://github.com/george25031996/kubernetes-netology/blob/main/1.5/task2.yml)
