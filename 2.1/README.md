@@ -22,6 +22,7 @@
 
 5. Предоставить манифесты Deployment в решении, а также скриншоты или вывод команды из п. 4.
 
+[yaml манифест первый](https://github.com/george25031996/kubernetes-netology/blob/main/2.1/task1.yml)
 
 ## Задание 2
 
@@ -41,3 +42,5 @@
 ![Скрин 7](./images/7.png)
 
 4. Предоставить манифесты Deployment, а также скриншоты или вывод команды из п. 2.
+
+[yaml манифест второй](https://github.com/george25031996/kubernetes-netology/blob/main/2.1/task2.yml)
