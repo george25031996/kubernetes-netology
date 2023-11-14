@@ -34,6 +34,12 @@
 
 ![Скрин 6](./images/6.png)
 
+6. Предоставить манифесты, а также скриншоты или вывод необходимых команд.
+
+[yaml манифест первый.1](https://github.com/george25031996/kubernetes-netology/blob/main/2.2/task1.yml)
+
+[yaml манифест первый.2](https://github.com/george25031996/kubernetes-netology/blob/main/2.2/task1_1.yml)
+
 ## Задание 2
 
 Создать Deployment приложения, которое может хранить файлы на NFS с динамическим созданием PV.
@@ -52,4 +58,4 @@
 
 4. Предоставить манифесты, а также скриншоты или вывод необходимых команд.
 
-
+[yaml манифест второй](https://github.com/george25031996/kubernetes-netology/blob/main/2.2/task2.yml)
