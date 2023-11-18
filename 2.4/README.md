@@ -26,3 +26,5 @@
 ![Скрин 6](./images/6.png)
 
 5. Предоставьте манифесты и скриншоты и/или вывод необходимых команд.
+
+[yaml манифест](https://github.com/Rain-m-a-n/devops-netology/blob/master/%D0%9A%D0%BE%D0%BD%D1%84%D0%B8%D0%B3%D1%83%D1%80%D0%B0%D1%86%D0%B8%D1%8F%20Kubernetes/Kuber_(2.4)/task.yml)
