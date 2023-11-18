@@ -49,3 +49,5 @@
 ![Скрин 11](./images/11.png)
 
 5. Предоставить манифесты, а также скриншоты или вывод необходимых команд.
+
+[yaml манифест второй](https://github.com/george25031996/kubernetes-netology/blob/main/2.3/task2.yml)
