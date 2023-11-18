@@ -42,7 +42,7 @@ spec:
   - name: nginx
     protocol: TCP
     port: 80
-    targetPort: 8080
+    targetPort: 80
   type: ClusterIP
 
 ---
@@ -55,7 +55,7 @@ metadata:
     nginx.ingress.kubernetes.io/rewrite-target: /
 spec:
   rules:
-  - host: george-lisikh.web
+  - host: george-lisikh.com
     http:
       paths:
       - path: /
@@ -67,96 +67,6 @@ spec:
               number: 80
   tls:
   - hosts:
-    - george-lisikh.web
-    secretName: netology
----
-apiVersion: v1
-kind: Secret
-metadata:
-  name: netology
-  namespace: kuber-2-3
-data:
-  tls.crt: |
-    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
-  tls.key: |
-    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
-    qf4jPm7HD4KbV0vZ/f/+g4fcXjROHKg=
-type: kubernetes.io/tls
+    - george-lisikh.com
+    secretName: secret-tls
+
